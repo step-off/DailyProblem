@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleProblems", "AppleProblems\AppleProblems.csproj", "{02246DDF-A4D4-4FBE-A0E3-E724073276E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppleProblems", "AppleProblems\AppleProblems.csproj", "{02246DDF-A4D4-4FBE-A0E3-E724073276E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{DC247D68-6395-410D-8E41-922499A2C660}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "UnitTests\UnitTests.csproj", "{DC247D68-6395-410D-8E41-922499A2C660}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterProblems", "TwitterProblems\TwitterProblems.csproj", "{29335DBC-32F4-4724-A956-5499DA3204B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DC247D68-6395-410D-8E41-922499A2C660}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC247D68-6395-410D-8E41-922499A2C660}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC247D68-6395-410D-8E41-922499A2C660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29335DBC-32F4-4724-A956-5499DA3204B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29335DBC-32F4-4724-A956-5499DA3204B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29335DBC-32F4-4724-A956-5499DA3204B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29335DBC-32F4-4724-A956-5499DA3204B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
